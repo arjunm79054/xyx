@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1688447198,,"wq"
+=======
+|2,0,1688367219,,"wq"
+>>>>>>> d2edeb4 (all files added to repo)
 
 # Search String History (newest to oldest):
 
@@ -25,8 +29,13 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  3  13  ~/fearure2.txt
 |4,48,3,13,1688447198,"~/fearure2.txt"
+=======
+'0  4  17  ~/feature3.txt
+|4,48,4,17,1688367219,"~/feature3.txt"
+>>>>>>> d2edeb4 (all files added to repo)
 '1  8  0  ~/feature2.txt
 |4,49,8,0,1688367034,"~/feature2.txt"
 '2  2  0  ~/feature1.txt
@@ -35,10 +44,17 @@
 |4,51,10,0,1688364966,"~/arjun/arjun.sh"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  3  13  ~/fearure2.txt
 |4,39,3,13,1688447198,"~/fearure2.txt"
 -'  1  0  ~/fearure2.txt
 |4,39,1,0,1688447182,"~/fearure2.txt"
+=======
+-'  4  17  ~/feature3.txt
+|4,39,4,17,1688367219,"~/feature3.txt"
+-'  1  0  ~/feature3.txt
+|4,39,1,0,1688367203,"~/feature3.txt"
+>>>>>>> d2edeb4 (all files added to repo)
 -'  8  0  ~/feature2.txt
 |4,39,8,0,1688367034,"~/feature2.txt"
 -'  8  0  ~/feature2.txt
@@ -98,12 +114,21 @@
 
 # History of marks within files (newest to oldest):
 
+<<<<<<< HEAD
 > ~/fearure2.txt
 	*	1688447195	0
 	"	3	13
 	^	3	14
 	.	3	13
 	+	3	13
+=======
+> ~/feature3.txt
+	*	1688367216	0
+	"	4	17
+	^	4	18
+	.	4	17
+	+	4	17
+>>>>>>> d2edeb4 (all files added to repo)
 
 > ~/feature2.txt
 	*	1688367031	0
