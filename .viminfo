@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1688367034,,"wq"
+|2,0,1688447198,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,40 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/feature2.txt
-|4,48,8,0,1688367034,"~/feature2.txt"
-'1  2  0  ~/feature1.txt
-|4,49,2,0,1688366802,"~/feature1.txt"
-'2  10  0  ~/arjun/arjun.sh
-|4,50,10,0,1688364966,"~/arjun/arjun.sh"
+'0  3  13  ~/fearure2.txt
+|4,48,3,13,1688447198,"~/fearure2.txt"
+'1  8  0  ~/feature2.txt
+|4,49,8,0,1688367034,"~/feature2.txt"
+'2  2  0  ~/feature1.txt
+|4,50,2,0,1688366802,"~/feature1.txt"
+'3  10  0  ~/arjun/arjun.sh
+|4,51,10,0,1688364966,"~/arjun/arjun.sh"
 
 # Jumplist (newest first):
+-'  3  13  ~/fearure2.txt
+|4,39,3,13,1688447198,"~/fearure2.txt"
+-'  1  0  ~/fearure2.txt
+|4,39,1,0,1688447182,"~/fearure2.txt"
 -'  8  0  ~/feature2.txt
 |4,39,8,0,1688367034,"~/feature2.txt"
+-'  8  0  ~/feature2.txt
+|4,39,8,0,1688367034,"~/feature2.txt"
+-'  1  0  ~/feature2.txt
+|4,39,1,0,1688367014,"~/feature2.txt"
 -'  1  0  ~/feature2.txt
 |4,39,1,0,1688367014,"~/feature2.txt"
 -'  2  0  ~/feature1.txt
 |4,39,2,0,1688366802,"~/feature1.txt"
 -'  2  0  ~/feature1.txt
 |4,39,2,0,1688366802,"~/feature1.txt"
+-'  2  0  ~/feature1.txt
+|4,39,2,0,1688366802,"~/feature1.txt"
+-'  2  0  ~/feature1.txt
+|4,39,2,0,1688366802,"~/feature1.txt"
+-'  1  0  ~/feature1.txt
+|4,39,1,0,1688366772,"~/feature1.txt"
+-'  1  0  ~/feature1.txt
+|4,39,1,0,1688366772,"~/feature1.txt"
 -'  1  0  ~/feature1.txt
 |4,39,1,0,1688366772,"~/feature1.txt"
 -'  1  0  ~/feature1.txt
@@ -53,6 +71,22 @@
 |4,39,10,0,1688364966,"~/arjun/arjun.sh"
 -'  10  0  ~/arjun/arjun.sh
 |4,39,10,0,1688364966,"~/arjun/arjun.sh"
+-'  10  0  ~/arjun/arjun.sh
+|4,39,10,0,1688364966,"~/arjun/arjun.sh"
+-'  10  0  ~/arjun/arjun.sh
+|4,39,10,0,1688364966,"~/arjun/arjun.sh"
+-'  10  0  ~/arjun/arjun.sh
+|4,39,10,0,1688364966,"~/arjun/arjun.sh"
+-'  10  0  ~/arjun/arjun.sh
+|4,39,10,0,1688364966,"~/arjun/arjun.sh"
+-'  1  0  ~/arjun/arjun.sh
+|4,39,1,0,1688364929,"~/arjun/arjun.sh"
+-'  1  0  ~/arjun/arjun.sh
+|4,39,1,0,1688364929,"~/arjun/arjun.sh"
+-'  1  0  ~/arjun/arjun.sh
+|4,39,1,0,1688364929,"~/arjun/arjun.sh"
+-'  1  0  ~/arjun/arjun.sh
+|4,39,1,0,1688364929,"~/arjun/arjun.sh"
 -'  1  0  ~/arjun/arjun.sh
 |4,39,1,0,1688364929,"~/arjun/arjun.sh"
 -'  1  0  ~/arjun/arjun.sh
@@ -63,6 +97,13 @@
 |4,39,1,0,1688364929,"~/arjun/arjun.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/fearure2.txt
+	*	1688447195	0
+	"	3	13
+	^	3	14
+	.	3	13
+	+	3	13
 
 > ~/feature2.txt
 	*	1688367031	0
